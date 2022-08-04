@@ -1,0 +1,11 @@
+.centrado {
+width: 500;
+margin-left:auto;
+margin-right:auto;
+margin-top: 5%;
+}
+
+.botones{
+    align-items: center;
+    text-align: center;
+}
