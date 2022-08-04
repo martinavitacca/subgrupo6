@@ -1,0 +1,8 @@
+https://crudcrud.com/api/09821fc85acf4f1584cd4c5109346cf5/tugrupo
+
+
+En vez de "tugrupo" escribe "grupo" y el número de grupo que te hemos asignado.
+
+Ejemplo
+---------
+https://crudcrud.com/api/09821fc85acf4f1584cd4c5109346cf5/grupo5
